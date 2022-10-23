@@ -1,0 +1,39 @@
+# Laravel 5 & Lumen specific
+public/storage
+public/hot
+
+# Laravel 5 & Lumen specific with changed public path
+public_html/storage
+public_html/hot
+
+auth.json
+
+# IDE
+/.idea
+/.vscode
+
+/vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
+
+/public/build
+
+# Laravel 4 specific
+bootstrap/compiled.php
+app/storage/
+
+storage/*.key
+
+.env
+.env.backup
+
+Homestead.yaml
+Homestead.json
+/.vagrant
+
+.phpunit.result.cache
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
