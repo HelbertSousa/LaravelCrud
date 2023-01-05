@@ -69,3 +69,7 @@
 [Laravel Docs](https://laravel-docs-pt-br.readthedocs.io/en/5.0/homestead/)
 
 [PHP Docs](https://www.php.net/docs.php)
+
+## Future Steps
+
+- Apply improvements to simplify files by removing those that are automatically created and have not been edited.
